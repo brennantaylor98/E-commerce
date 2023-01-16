@@ -1,4 +1,4 @@
-# Note Taker Application
+# E-Commerce Applcation
 
 ## Description
 This application allows users to generate, update, delete, and retreive products and catagory routes. This application is fitted with e-commerce items just as apparel, and music. It demonstrates functionality of express.js, ORM, OOP, SQL, Sequalize, and dotenv.
